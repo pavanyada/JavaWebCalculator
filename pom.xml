@@ -35,10 +35,7 @@
    </configuration>
 </plugin>
 </plugins>
-</build>
 
-  
-  <build>
     <finalName>WebAppCal</finalName>
   </build>
 </project>
